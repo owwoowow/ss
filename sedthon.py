@@ -200,7 +200,7 @@ async def _(event):
     time_name.append("off")
     await sedthon(
         functions.account.UpdateProfileRequest(
-            first_name="@N1111V"
+            first_name="@ycxcx"
         )
     )
 
@@ -575,7 +575,7 @@ async def _(event):
 ☆ البنك : `{ms}`
 ☆ التاريخ : `{m9zpi}`
 ☆ الايدي : `{event.sender_id}`
-☆ تـوب سـورس : @N1111V**
+☆ تـوب سـورس : @m_v_x**
 ''')
 
 
