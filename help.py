@@ -9,8 +9,8 @@ soursce = '''
 `- -- -- -- -- -- -- -- --`
 **Sedthon source is working ⚡
 Dev : 𝙩𝙤𝙥𝙖𝙘
-Dev : @S_Y_V
-Source Ch : @N1111V**
+Dev : @ruuur
+Source Ch : @ruuur
 `-- -- -- -- -- -- -- -- --`
 '''
 trans = '''
