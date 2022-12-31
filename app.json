@@ -20,7 +20,7 @@
             "value": "",
             "required": true
         },
-        "TERMsUX": {
+        "TERMUX": {
             "description": "كود تيرمكس",
             "value": "",
             "required": true
